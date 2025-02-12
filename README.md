@@ -41,12 +41,6 @@ Based on the insights derived from the dashboard, here are some strategic recomm
    - Introduce variations or bundles of top-selling products to increase revenue potential.  
    - Conduct customer preference analysis to identify potential new product categories.  
 
-## 🔧 How to Use
-1. Open the Power BI dashboard.
-2. Use the interactive filters (Retail City, Product Line, Year) to customize the view.
-3. Click on different elements to explore deeper insights.
-4. Analyze trends and make data-driven decisions!
-
 ## 📂 Files
 - `dashboard.pbix` → Power BI file
 - `README.md` → This documentation
